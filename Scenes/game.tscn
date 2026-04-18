@@ -229,7 +229,7 @@ offset_right = 709.0
 offset_bottom = -36.0
 theme_override_fonts/font = ExtResource("2_v158k")
 theme_override_font_sizes/font_size = 8
-text = "you get X coins!"
+text = "you get 0 coins!"
 vertical_alignment = 1
 autowrap_mode = 3
 
